@@ -50,7 +50,8 @@ SOFTWARE.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/Suman789438/SHR-INSTA-CRACKER.git```
+
 cd your-repo-name
 
 # Install dependencies
