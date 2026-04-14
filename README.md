@@ -30,8 +30,8 @@ SOFTWARE.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Termux](https://img.shields.io/badge/Termux-Supported-orange)
 
+# JOIN OUR TALEGRAM GROUP 
 [![TALEGRAM GROUP](https://github.com/Suman789438/SHR-INSTA-CRACKER/blob/main/Telegram_logo.svg.png)](https://t.me/apk_store_from_raj)
-
 
 
 
