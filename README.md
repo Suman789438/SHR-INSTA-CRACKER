@@ -28,7 +28,9 @@ SOFTWARE.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Termux](https://img.shields.io/badge/Termux-Supported-orange)
 
-![TALEGRAM GROUP](https://t.me/apk_store_from_raj)
+![TALEGRAM GROUP](https://www.flaticon.com/free-icon/telegram_2111646)
+
+
 
 
 > **⚠️ WARNING:** This tool is for **educational and authorized security testing only**.  
