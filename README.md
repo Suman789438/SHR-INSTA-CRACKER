@@ -55,3 +55,6 @@ cd your-repo-name
 
 # Install dependencies
 python package.py
+
+#run tool 🔥 
+python shr.py
