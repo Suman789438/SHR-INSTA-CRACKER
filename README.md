@@ -28,6 +28,9 @@ SOFTWARE.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Termux](https://img.shields.io/badge/Termux-Supported-orange)
 
+![TALEGRAM GROUP](https://t.me/apk_store_from_raj)
+
+
 > **⚠️ WARNING:** This tool is for **educational and authorized security testing only**.  
 > Unauthorised access to Instagram accounts is illegal. The author is not responsible for any misuse.
 
@@ -47,15 +50,22 @@ SOFTWARE.
 - `requests`, `PySocks` (installed automatically by `package.py`)
 
 ## 🔧 Installation
-
 ```bash
+apt update && apt upgrade -y
+```
+```bash 
+ apt install python3
+```
 # Clone the repository
+```bash
 https://github.com/Suman789438/SHR-INSTA-CRACKER.git```
-
-cd your-repo-name
-
-# Install dependencies
+bash```
+cd SHR-INSTA-CRACKER
+```
+```bash
 python package.py
-
-#run tool 🔥 
+```
+# run tool 🔥 
+```bash
 python shr.py
+```
